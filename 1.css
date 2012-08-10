@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+.c1{color:green;
+	position:absolute;
+	top:10;
+	left:500;
+}
+.c2{color:red;
+	position:absolute;
+	top:0;
+	left:1350;
+	}
+.c3{
+	color:red;
+	position:absolute;
+	top:500;
+	left:-1000;
+}
+	.c4{
+	color:red;
+	position:absolute;
+	top:0;
+	left:1250;
+	}
+.c5{
+	 color:red;
+	 position:absolute;
+	 top:20;
+	 left:500;
+	}
+.c6{color:red;
+	position:absolute;
+	top:0;
+	left:0;
+}
